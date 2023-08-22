@@ -7,7 +7,7 @@
 ![Best Practices](https://hackernews.nearform.com/badges/lighthouse-best-practices.svg)
 ![SSO](https://hackernews.nearform.com/badges/lighthouse-seo.svg)
 
-nf-react-pwa-badges
+nf-react-pwa-badges test
 
 This project is an example of how a Progressive Web Application can be structured, using React and Node. It takes the form of a Hackernews clone, in the form of a PWA.
 
